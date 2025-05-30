@@ -42,7 +42,7 @@ My dual-track career reflects my adaptability and passion for learning. I am cur
 
 ## 💻 Software Development Projects
 
-### 🏦 [RevouBank API](https://github.com/rifqisaleh/revoubank)
+### 🏦 [RevouBank API](https://github.com/rifqisaleh/revoubank_deploy-mrs-)
 A simulated digital banking API built during backend training.  
 **Tech:** Flask, SQLAlchemy, JWT, SQLite, Email  
 **Key Features:**
@@ -104,7 +104,7 @@ Frontend for a simple online shop using real product API.
 
 - Email: **mrifqisaleh@gmail.com**  
 - GitHub: [github.com/rifqisaleh](https://github.com/rifqisaleh)  
-- CV: [Link to PDF or Google Drive](#) *(insert your link)*
+- CV: (https://docs.google.com/document/d/1KLD4iy1BIoV8SRPnXq2Ln7cH_F57EkzCpZ54Naw6EPE/edit?usp=sharing)
 
 ---
 

@@ -104,7 +104,7 @@ Frontend for a simple online shop using real product API.
 
 - Email: **mrifqisaleh@gmail.com**  
 - GitHub: [github.com/rifqisaleh](https://github.com/rifqisaleh)  
-- CV: (https://docs.google.com/document/d/1KLD4iy1BIoV8SRPnXq2Ln7cH_F57EkzCpZ54Naw6EPE/edit?usp=sharing)
+- CV: [docs.google.com/document](https://docs.google.com/document/d/1uWT1Vp2vlEnnbdmQpxh8HCCLeUBthNiQyMHicokrK4w/edit?tab=t.0#heading=h.mrtw17jotp5j)
 
 ---
 

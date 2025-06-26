@@ -76,11 +76,11 @@ Frontend for a simple online shop using real product API.
 ## 🔧 Skills
 
 **Tech Stack:**  
-- *Languages*: Javascript, Typescript, Python, HTML5, CSS3, SQL
-- *Frameworks/Libraries*: React Native, Flask, Tailwind CSS
-- *Databases*: PostgreSQL
-- *DevOps Infrastructures*: Vercel, Netifly
-- *Tools*: Git, Github, Postman, VS Code
+- ***Languages***: Javascript, Typescript, Python, HTML5, CSS3, SQL
+- ***Frameworks/Libraries***: React Native, Flask, Tailwind CSS
+- ***Databases***: PostgreSQL
+- ***DevOps Infrastructures***: Vercel, Netifly
+- ***Tools***: Git, Github, Postman, VS Code
 
 
 **Soft Skills:**  

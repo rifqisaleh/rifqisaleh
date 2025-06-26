@@ -41,15 +41,15 @@ My dual-track career reflects my adaptability and passion for learning. I am cur
 ---
 
 ## 🎓 Education & Trainings
-*RevoU, Jakarta Indonesia*</br>
+**RevoU, Jakarta Indonesia**</br>
 *October 2024 – May 2025*</br>
 Full-Stack Software Engineer</br>
 
-*Sadhu Guna University, Jakarta Indonesia*</br>
+**Sadhu Guna University, Jakarta Indonesia**</br>
 *October 2021 – July 2022*</br>
 BTEC Level 7 on Strategic Management and Leadership</br>
 
-*Basair Aviation College, Sydney Australia*</br>
+**Basair Aviation College, Sydney Australia**</br>
 *March 2014 – May 2016*</br>
 Diploma and Certificate IV in Aviation (Commercial Pilot License)</br>
 

@@ -90,11 +90,35 @@ Frontend for a simple online shop using real product API.
 ## 🔧 Skills
 
 **Tech Stack:**  
-- ***Languages***: Javascript, Typescript, Python, HTML5, CSS3, SQL
-- ***Frameworks/Libraries***: React Native, Flask, Tailwind CSS
-- ***Databases***: PostgreSQL
-- ***DevOps Infrastructures***: Vercel, Netifly
-- ***Tools***: Git, Github, Postman, VS Code
+- ***Languages***: <br /><br />
+<img src="assets/js.png" alt="JS icon" width="52"/> 
+<img src="assets/typescript.png" alt="tS icon" width="52"/> 
+<img src="assets/python.png" alt="python icon" width="52"/> 
+<img src="assets/css-3.png" alt="css icon" width="52"/> 
+<img src="assets/sql-server.png" alt="ssql icon" width="52"/>
+<br /><br />
+
+- ***Frameworks/Libraries***: <br /><br />
+<img src="assets/flask.png" alt="flask icon" width="52"/> 
+<img src="assets/Tailwind CSS.png" alt="taiwlind icon" width="150"/> 
+<img src="assets/react.png" alt="react icon" width="52"/>
+<br /><br />
+
+- ***Databases***: <br /><br />
+<img src="assets/postgre.png" alt="postgres icon" width="52"/>
+<br /><br />
+- ***DevOps Infrastructures***: <br /><br />
+<img src="assets/Vercel.png" alt="Vercel icon" width="52"/> 
+<img src="assets/netifly.png" alt="netifly icon" width="120"/>
+<img src="assets/supabase.png" alt="supabase icon" width="52"/> 
+<img src="assets/koyeb.svg" alt="koyeb icon" width="52"/><br /><br />
+
+- ***Tools***: <br /><br />
+<img src="assets/git.png" alt="git icon" width="52"/>
+<img src="assets/github.png" alt="github icon" width="52"/>
+<img src="assets/Postman.png" alt="postman icon" width="52"/>
+<img src="assets/vscode.png" alt="vscode icon" width="52"/>
+<br /><br />
 
 
 **Soft Skills:**  

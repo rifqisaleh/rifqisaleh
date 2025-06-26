@@ -65,7 +65,6 @@ A simulated digital banking API built during backend training.
 - External transfers with invoice generation and email attachment
 - Test coverage using `pytest`
 
----
 
 ### 🌱 [BumiBrew Backend (Team Project)](https://github.com/atfdeenk/FSSE_Oct24_GroupC_GFP_Backend)
 Backend for an eco-conscious e-commerce platform specifically for coffee.  
@@ -75,7 +74,6 @@ Backend for an eco-conscious e-commerce platform specifically for coffee.
 - Developed and tested endpoints using Postman & pytest  
 - Worked with team via Git & GitHub using feature branches and PRs
 
----
 
 ### 🛍️ [ShopSmart Frontend](https://github.com/rifqisaleh/shopsmart-rifqi)
 Frontend for a simple online shop using real product API.  
@@ -85,39 +83,28 @@ Frontend for a simple online shop using real product API.
 - Add-to-cart system  
 - Dynamic product filtering
 
----
 
+---
 ## 🔧 Skills
 
 **Tech Stack:**  
 - ***Languages***: <br /><br />
-<img src="assets/js.png" alt="JS icon" width="52"/> 
-<img src="assets/typescript.png" alt="tS icon" width="52"/> 
-<img src="assets/python.png" alt="python icon" width="52"/> 
-<img src="assets/css-3.png" alt="css icon" width="52"/> 
-<img src="assets/sql-server.png" alt="ssql icon" width="52"/>
+<img src="assets/js.png" alt="JS icon" width="52"/> <img src="assets/typescript.png" alt="tS icon" width="52"/> <img src="assets/python.png" alt="python icon" width="52"/> <img src="assets/css-3.png" alt="css icon" width="52"/> <img src="assets/sql-server.png" alt="ssql icon" width="52"/>
 <br /><br />
 
 - ***Frameworks/Libraries***: <br /><br />
-<img src="assets/flask.png" alt="flask icon" width="52"/> 
-<img src="assets/Tailwind CSS.png" alt="taiwlind icon" width="150"/> 
-<img src="assets/react.png" alt="react icon" width="52"/>
+<img src="assets/flask.png" alt="flask icon" width="52"/> <img src="assets/Tailwind CSS.png" alt="taiwlind icon" width="150"/> <img src="assets/react.png" alt="react icon" width="52"/>
 <br /><br />
 
 - ***Databases***: <br /><br />
 <img src="assets/postgre.png" alt="postgres icon" width="52"/>
 <br /><br />
+
 - ***DevOps Infrastructures***: <br /><br />
-<img src="assets/Vercel.png" alt="Vercel icon" width="52"/> 
-<img src="assets/netifly.png" alt="netifly icon" width="120"/>
-<img src="assets/supabase.png" alt="supabase icon" width="52"/> 
-<img src="assets/koyeb.svg" alt="koyeb icon" width="52"/><br /><br />
+<img src="assets/Vercel.png" alt="Vercel icon" width="52"/> <img src="assets/netifly.png" alt="netifly icon" width="120"/><img src="assets/supabase.png" alt="supabase icon" width="52"/> <img src="assets/koyeb.svg" alt="koyeb icon" width="52"/><br /><br />
 
 - ***Tools***: <br /><br />
-<img src="assets/git.png" alt="git icon" width="52"/>
-<img src="assets/github.png" alt="github icon" width="52"/>
-<img src="assets/Postman.png" alt="postman icon" width="52"/>
-<img src="assets/vscode.png" alt="vscode icon" width="52"/>
+<img src="assets/git.png" alt="git icon" width="52"/><img src="assets/github.png" alt="github icon" width="52"/><img src="assets/Postman.png" alt="postman icon" width="52"/><img src="assets/vscode.png" alt="vscode icon" width="52"/>
 <br /><br />
 
 

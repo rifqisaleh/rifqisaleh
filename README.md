@@ -8,7 +8,7 @@ Welcome! I’m Rifqi — a licensed First Officer with over 400 hours of flying 
 
 ## 🧭 Career Summary
 
-I started my aviation career in 2017 and flew until 2020 with two domestic airlines. My experience includes high-pressure line operations, charter flights for VIPs, and adherence to strict operational protocols. Since 2024, I’ve been training in backend software development through structured, project-based learning at [RevoU](https://revou.co/), where I’ve built and contributed to full-stack applications and RESTful APIs.
+I started my aviation career in 2017 and flew until 2020 with two domestic airlines. My experience includes high-pressure line operations, charter flights for VIPs, and adherence to strict operational protocols. Since 2024, I’ve been training in full-stack software engineering program through structured, project-based learning at [RevoU](https://revou.co/), where I’ve built and contributed to full-stack applications and RESTful APIs.
 
 My dual-track career reflects my adaptability and passion for learning. I am currently looking to re-enter aviation as a Second Officer, while also open to freelance backend development opportunities that allow me to grow technically and work collaboratively.
 

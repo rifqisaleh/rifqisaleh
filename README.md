@@ -16,14 +16,6 @@ My dual-track career reflects my adaptability and passion for learning. I am cur
 
 ## ✈️ Flight Experience
 
-**🛫 PT. Aviastar Mandiri** – First Officer  
-*Scheduled Operations (BAe 146)*  
-*Sept 2017 – Jan 2018*  
-- Operated regional scheduled flights with over 100 logged hours  
-- Conducted pre-flight planning and system checks per SOP  
-- Coordinated with captain, ATC, and ground crew for safe operations  
-- Maintained punctuality and safety throughout daily operations  
-
 **🛬 PT. Transnusa Aviation Mandiri** – First Officer  
 *Charter / VIP Operations (BAe 146)*  
 *Jan 2018 – early 2020*  
@@ -32,6 +24,14 @@ My dual-track career reflects my adaptability and passion for learning. I am cur
 - Applied CRM practices to ensure high-level mission performance  
 - Contributed to smooth, professional client experience  
 
+**🛫 PT. Aviastar Mandiri** – First Officer  
+*Scheduled Operations (BAe 146)*  
+*Sept 2017 – Jan 2018*  
+- Operated regional scheduled flights with over 100 logged hours  
+- Conducted pre-flight planning and system checks per SOP  
+- Coordinated with captain, ATC, and ground crew for safe operations  
+- Maintained punctuality and safety throughout daily operations  
+
 🧮 **Total Flight Time:**  
 - 400+ Total Hours  
 - 200+ Jet Hours  
@@ -39,7 +39,7 @@ My dual-track career reflects my adaptability and passion for learning. I am cur
 - 100+ Hours in Charter Ops
 
 ---
-
+---
 ## 💻 Software Development Projects
 
 ### 🏦 [RevouBank API](https://github.com/rifqisaleh/revoubank_deploy-mrs-)
@@ -76,11 +76,12 @@ Frontend for a simple online shop using real product API.
 ## 🔧 Skills
 
 **Tech Stack:**  
-- Python, Flask, SQLAlchemy  
-- PostgreSQL, SQLite  
-- RESTful APIs, JWT  
-- HTML, CSS, JavaScript, React  
-- Git, GitHub, Postman, VS Code
+- *Languages*: Javascript, Typescript, Python, HTML5, CSS3, SQL
+- *Frameworks/Libraries*: React Native, Flask, Tailwind CSS
+- *Databases*: PostgreSQL
+- *DevOps Infrastructures*: Vercel, Netifly
+- *Tools*: Git, Github, Postman, VS Code
+
 
 **Soft Skills:**  
 - Team Communication (CRM/ATC discipline)  

@@ -97,7 +97,7 @@ Frontend for a simple online shop using real product API.
 <br /><br />
 
 - ***Databases***: <br /><br />
-<img src="assets/postgre.png" alt="postgres icon" width="52"/>
+  <img src="assets/postgre.png" alt="postgres icon" width="52"/>
 <br /><br />
 
 - ***DevOps Infrastructures***: <br /><br />

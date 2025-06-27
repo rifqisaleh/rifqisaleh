@@ -57,8 +57,9 @@ Diploma and Certificate IV in Aviation (Commercial Pilot License)</br>
 ## 💻 Software Development Projects
 
 ### 🏦 [RevouBank API](https://github.com/rifqisaleh/revoubank_deploy-mrs-)
-A simulated digital banking API built during backend training.  
-**Tech:** Flask, SQLAlchemy, JWT, SQLite, Email  
+Built a simulated digital banking API independently, implementing secure endpoints for user auth, account and transaction management, and external transfers with invoice generation and email delivery. Ensured full test coverage using Pytest to validate core functionalities.<br />
+**Role:** Backend<br />
+**Tech:** Flask, SQLAlchemy, JWT, SQLite, Email <br />
 **Key Features:**
 - User registration & login with email verification
 - Account management (balance, transfers, transaction history)
@@ -67,21 +68,25 @@ A simulated digital banking API built during backend training.
 
 
 ### 🌱 [BumiBrew Backend (Team Project)](https://github.com/atfdeenk/FSSE_Oct24_GroupC_GFP_Backend)
-Backend for an eco-conscious e-commerce platform specifically for coffee.  
-**My Role:** Product, cart, and user endpoint implementation  
-**Tech:** Flask, PostgreSQL, JWT, Role-based Access Control  
+Built and tested backend features for an eco-conscious coffee marketplace. I implemented user and product management systems supporting three roles (admin, seller, buyer), including admin-level approvals for product and top-up requests. Developed full CRUD functionality for users, products, product images, cart, and cart items, while ensuring API reliability through Postman and Pytest.<br />
+**Role:** Backend <br />
+**Tech:** Flask, PostgreSQL, JWT <br />
+**Key Features:**
 - Implemented secure product filtering, search, and pagination  
-- Developed and tested endpoints using Postman & pytest  
+- Developed and tested endpoints using Postman & pytest
+- CRUD operations for users, products, product images, cart, and cart items  
 - Worked with team via Git & GitHub using feature branches and PRs
 
 
 ### 🛍️ [ShopSmart Frontend](https://github.com/rifqisaleh/shopsmart-rifqi)
-Frontend for a simple online shop using real product API.  
-**Tech:** React, JavaScript (ES6), Tailwind CSS  
-**Features:**  
-- Responsive landing page  
-- Add-to-cart system  
-- Dynamic product filtering
+Built a fully functional frontend e-commerce interface independently using React and Tailwind. Connected to a real product API, this project features responsive design, client-side filtering, and seamless cart functionality powered by state management.<br />
+**Role:** Frontend<br />
+**Tech:** React, JavaScript (ES6), Tailwind CSS  <br />
+**Key Features:**  
+- Responsive landing page built with Tailwind CSS
+- Dynamic product filtering based on category and title
+- Context-based add-to-cart system with quantity handling and local state
+- Real-time cart updates with conditional rendering for empty/full cart states
 
 
 ---

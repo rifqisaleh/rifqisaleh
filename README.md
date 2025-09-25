@@ -16,8 +16,9 @@ My dual-track career reflects my adaptability and passion for learning. I am cur
 
 ## ✈️ Working Experience
 
-**💻 CV (Experience Section)
-*Backend Engineer (Internship) – TiketQ (2025)
+**💻  TiketQ x RevoU (Internship)** – Software Engineer Internship-Backend
+
+*Jul 2025 – September 2025* 
 - Developed and maintained flight-services microservice in a multi-service ticket booking platform.
 - Integrated external airline API (MMBC) for flight search, booking, and e-ticket retrieval.
 - Ensured seamless integration with payment-services for transaction flow.

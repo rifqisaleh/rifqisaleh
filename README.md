@@ -14,7 +14,15 @@ My dual-track career reflects my adaptability and passion for learning. I am cur
 
 ---
 
-## ✈️ Flight Experience
+## ✈️ Working Experience
+
+**💻 CV (Experience Section)
+*Backend Engineer (Internship) – TiketQ (2025)
+- Developed and maintained flight-services microservice in a multi-service ticket booking platform.
+- Integrated external airline API (MMBC) for flight search, booking, and e-ticket retrieval.
+- Ensured seamless integration with payment-services for transaction flow.
+- Built and tested RESTful APIs with FastAPI, Dockerized for consistency across environments.
+- Collaborated in Agile sprints, delivering features aligned with Figma UI and frontend requirements.
 
 **🛬 PT. Transnusa Aviation Mandiri** – First Officer  
 *Charter / VIP Operations (BAe 146)*  
@@ -31,12 +39,6 @@ My dual-track career reflects my adaptability and passion for learning. I am cur
 - Conducted pre-flight planning and system checks per SOP  
 - Coordinated with captain, ATC, and ground crew for safe operations  
 - Maintained punctuality and safety throughout daily operations  
-
-🧮 **Total Flight Time:**  
-- 400+ Total Hours  
-- 200+ Jet Hours  
-- 100+ Hours in Scheduled Ops  
-- 100+ Hours in Charter Ops
 
 ---
 

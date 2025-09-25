@@ -56,6 +56,19 @@ Diploma and Certificate IV in Aviation (Commercial Pilot License)</br>
 ---
 ## 💻 Software Development Projects
 
+### ✈️ [TiketQ Flight Booking Platform](https://github.com/ini-tiket-q/tiketq-backend-services)
+Collaborated in a team to build a microservices-based flight booking system, integrating external airline APIs (MMBC) and payment services to enable real-time flight search, booking, issuance, and e-ticket retrieval.<br />
+**Role:** Backend – Flight Services<br />
+**Tech:** FastAPI, PostgreSQL, Redis (mock), Docker, Postman, Git, Next.js (FE integration)<br />
+**Key Features:**
+- Flight-services microservice with endpoints for search, price check, booking, issuance, status, and e-ticket retrieval
+- Integration with external MMBC API for live airline data
+- Payment-services integration to handle booking transactions and payment status
+- Applied hexagonal architecture for clean separation of domain, services, and adapters
+- Containerized with Docker and documented/tested via Postman
+- Collaborated with frontend team (Next.js) to deliver real-time flight search and booking
+
+
 ### 🏦 [RevouBank API](https://github.com/rifqisaleh/revoubank_deploy-mrs-)
 Built a simulated digital banking API independently, implementing secure endpoints for user auth, account and transaction management, and external transfers with invoice generation and email delivery. Ensured full test coverage using Pytest to validate core functionalities.<br />
 **Role:** Backend<br />
